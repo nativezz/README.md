@@ -3,7 +3,7 @@
 <a href="https://discord.gg/0248" target"blank_"><img src="https://img.shields.io/badge/Nativez%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/31oot6fjpm6c7n4x62v3dqmwupcu?si=cb12643c56314eed" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/h4mzaaaa/" target"blank_"><img src="https://img.shields.io/badge/instagram%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://github.com/BetaWile" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/nativezz" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 
